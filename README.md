@@ -5,7 +5,9 @@
 
 The objective of this project is to clean and transform the Nashville Housing dataset using SQL.
 The cleaning process ensures the dataset is accurate, consistent, and ready for analysis by:
+
 •	Standardizing date formats
+
 •	Handling missing property addresses
 
 •	Splitting composite fields (address, city, state)
@@ -20,7 +22,7 @@ The cleaning process ensures the dataset is accurate, consistent, and ready for 
 ## Dataset
 
 The dataset used in this project comes from Nashville Housing Data.
-👉 <a href="(https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data)">Housing Data – Download Link</a>
+👉 <a href="https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data">Housing Data – Download Link</a>
 
 
 ## Questions (KPIs)
