@@ -7,10 +7,15 @@ The objective of this project is to clean and transform the Nashville Housing da
 The cleaning process ensures the dataset is accurate, consistent, and ready for analysis by:
 
 •	Standardizing date formats
+
 •	Handling missing property addresses
+
 •	Splitting composite fields (address, city, state)
+
 •	Normalizing categorical values
+
 •	Removing duplicates
+
 •	Dropping unnecessary columns
 
 
