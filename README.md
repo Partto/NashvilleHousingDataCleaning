@@ -1,4 +1,4 @@
-#Nashville Housing Data Cleaning (SQL Project)
+# Nashville Housing Data Cleaning (SQL Project)
 ##Project Objective
 
 The objective of this project is to clean and transform the Nashville Housing dataset using SQL.
