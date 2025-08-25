@@ -28,6 +28,7 @@ The dataset used in this project comes from Nashville Housing Data.
 ## Questions (KPIs)
 
 This project was designed to address the following key data quality issues:
+
 •	Are all SaleDate entries in a consistent format?
 
 •	How can missing PropertyAddress values be recovered?
