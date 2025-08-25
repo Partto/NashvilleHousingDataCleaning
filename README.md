@@ -1,5 +1,7 @@
 # Nashville Housing Data Cleaning (SQL Project)
-##Project Objective
+
+
+## Project Objective
 
 The objective of this project is to clean and transform the Nashville Housing dataset using SQL.
 The cleaning process ensures the dataset is accurate, consistent, and ready for analysis by:
@@ -16,12 +18,12 @@ Removing duplicates
 
 Dropping unnecessary columns
 
-##Dataset
+## Dataset
 
 The dataset used in this project comes from Nashville Housing Data.
 👉 [Nashville Housing Dataset – Download Link] (add link if available)
 
-##Questions (KPIs)
+## Questions (KPIs)
 
 This project was designed to address the following key data quality issues:
 
@@ -37,7 +39,7 @@ Are there duplicate property records, and how can they be removed?
 
 Which columns are unnecessary for analysis and can be dropped?
 
-##Process
+## Process
 
 Data Inspection: Queried the raw dataset to identify inconsistencies and missing values
 
@@ -51,7 +53,7 @@ Duplicate Removal: Used ROW_NUMBER() with PARTITION BY to detect and delete dupl
 
 Column Cleanup: Dropped redundant columns (OwnerAddress, PropertyAddress, TaxDistrict, etc.)
 
-##Project Insights
+## Project Insights
 
 Dates are now in a consistent and queryable format
 
@@ -65,7 +67,7 @@ Duplicate property records were identified and removed
 
 Final dataset is simplified and analysis-ready
 
-##Final Conclusion
+## Final Conclusion
 
 The Nashville Housing SQL project demonstrates practical data cleaning and transformation techniques.
 It equips analysts with a structured dataset that is:
@@ -76,7 +78,7 @@ Reliable for further real estate trend analysis
 
 Cleaned using efficient SQL functions and best practices
 
-##Tools & Technologies
+## Tools & Technologies
 
 SQL Server – Data cleaning and transformation
 
@@ -84,4 +86,4 @@ T-SQL Functions – ROW_NUMBER(), SUBSTRING, CHARINDEX, PARSENAME, ISNULL
 
 Schema Management – ALTER TABLE, DROP COLUMN
 
-##Author: Patrick Ugwu
+## Author: Patrick Ugwu
